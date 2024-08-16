@@ -1,0 +1,156 @@
+{
+  "nodes": [
+    {
+      "id": "course1",
+      "name": "课程1",
+      "label": "课程"
+    },
+    {
+      "id": "course2",
+      "name": "课程2",
+      "label": "课程"
+    },
+    {
+      "id": "course3",
+      "name": "课程3",
+      "label": "课程"
+    },
+    {
+      "id": "course4",
+      "name": "课程4",
+      "label": "课程"
+    },
+    {
+      "id": "course5",
+      "name": "课程5",
+      "label": "课程"
+    },
+    {
+      "id": "kp1",
+      "name": "知识点1",
+      "label": "知识点"
+    },
+    {
+      "id": "kp2",
+      "name": "知识点2",
+      "label": "知识点"
+    },
+    {
+      "id": "kp3",
+      "name": "知识点3",
+      "label": "知识点"
+    },
+    {
+      "id": "kp4",
+      "name": "知识点4",
+      "label": "知识点"
+    },
+    {
+      "id": "kp5",
+      "name": "知识点5",
+      "label": "知识点"
+    },
+    {
+      "id": "kp6",
+      "name": "知识点6",
+      "label": "知识点"
+    },
+    {
+      "id": "kp7",
+      "name": "知识点7",
+      "label": "知识点"
+    },
+    {
+      "id": "kp8",
+      "name": "知识点8",
+      "label": "知识点"
+    },
+    {
+      "id": "kp9",
+      "name": "知识点9",
+      "label": "知识点"
+    },
+    {
+      "id": "kp10",
+      "name": "知识点10",
+      "label": "知识点"
+    }
+  ],
+  "edges": [
+    {
+      "source": "course1",
+      "target": "course2",
+      "type": "后继"
+    },
+    {
+      "source": "course2",
+      "target": "course3",
+      "type": "后继"
+    },
+    {
+      "source": "course3",
+      "target": "course4",
+      "type": "后继"
+    },
+    {
+      "source": "course4",
+      "target": "course5",
+      "type": "后继"
+    },
+    {
+      "source": "course1",
+      "target": "kp1",
+      "type": "引用"
+    },
+    {
+      "source": "course1",
+      "target": "kp2",
+      "type": "引用"
+    },
+    {
+      "source": "course2",
+      "target": "kp3",
+      "type": "引用"
+    },
+    {
+      "source": "course3",
+      "target": "kp4",
+      "type": "引用"
+    },
+    {
+      "source": "course3",
+      "target": "kp4",
+      "type": "引用"
+    },
+    {
+      "source": "course4",
+      "target": "kp5",
+      "type": "引用"
+    },
+    {
+      "source": "course4",
+      "target": "kp6",
+      "type": "引用"
+    },
+    {
+      "source": "course5",
+      "target": "kp7",
+      "type": "引用"
+    },
+    {
+      "source": "course5",
+      "target": "kp8",
+      "type": "引用"
+    },
+    {
+      "source": "course5",
+      "target": "kp9",
+      "type": "引用"
+    },
+    {
+      "source": "course5",
+      "target": "kp10",
+      "type": "引用"
+    }
+  ]
+}

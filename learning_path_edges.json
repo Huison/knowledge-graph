@@ -1,0 +1,79 @@
+{
+  "edges": [
+    {
+      "source": "course1",
+      "target": "course2",
+      "type": "后继"
+    },
+    {
+      "source": "course2",
+      "target": "course3",
+      "type": "后继"
+    },
+    {
+      "source": "course3",
+      "target": "course4",
+      "type": "后继"
+    },
+    {
+      "source": "course4",
+      "target": "course5",
+      "type": "后继"
+    },
+    {
+      "source": "course1",
+      "target": "kp1",
+      "type": "引用"
+    },
+    {
+      "source": "course1",
+      "target": "kp2",
+      "type": "引用"
+    },
+    {
+      "source": "course2",
+      "target": "kp3",
+      "type": "引用"
+    },
+    {
+      "source": "course3",
+      "target": "kp4",
+      "type": "引用"
+    },
+    {
+      "source": "course3",
+      "target": "kp4",
+      "type": "引用"
+    },
+    {
+      "source": "course4",
+      "target": "kp5",
+      "type": "引用"
+    },
+    {
+      "source": "course4",
+      "target": "kp6",
+      "type": "引用"
+    },
+    {
+      "source": "course5",
+      "target": "kp7",
+      "type": "引用"
+    },
+    {
+      "source": "course5",
+      "target": "kp8",
+      "type": "引用"
+    },
+    {
+      "source": "course5",
+      "target": "kp9",
+      "type": "引用"
+    },
+    {
+      "source": "course5",
+      "target": "kp10",
+      "type": "引用"
+    }
+  ]
+}

@@ -1,0 +1,791 @@
+{
+  "nodes": [
+    {
+      "id": "a1",
+      "name": "高等数学上",
+      "label": "课程"
+    },
+    {
+      "id": "a2",
+      "name": "函数与极限",
+      "label": "章节"
+    },
+    {
+      "id": "a3",
+      "name": "函数的连续性与间断点",
+      "label": "章节"
+    },
+    {
+      "id": "a4",
+      "name": "导数与微积分",
+      "label": "章节"
+    },
+    {
+      "id": "a5",
+      "name": "不定积分",
+      "label": "章节"
+    },
+    {
+      "id": "a6",
+      "name": "定积分",
+      "label": "章节"
+    },
+    {
+      "id": "a7",
+      "name": "微分方程",
+      "label": "章节"
+    },
+    {
+      "id": "a8",
+      "name": "映射与函数",
+      "label": "子章节"
+    },
+    {
+      "id": "a9",
+      "name": "数列的极限",
+      "label": "子章节"
+    },
+    {
+      "id": "a10",
+      "name": "函数的极限",
+      "label": "子章节"
+    },
+    {
+      "id": "a11",
+      "name": "无穷小与无穷大",
+      "label": "子章节"
+    },
+    {
+      "id": "a12",
+      "name": "极限运算法则",
+      "label": "子章节"
+    },
+    {
+      "id": "a13",
+      "name": "极限存在准则 两个重要的极限",
+      "label": "子章节"
+    },
+    {
+      "id": "a14",
+      "name": "无穷小的比较",
+      "label": "子章节"
+    },
+    {
+      "id": "a15",
+      "name": "连续函数的运算与初等函数的连续性",
+      "label": "子章节"
+    },
+    {
+      "id": "a16",
+      "name": "闭区间上连续函数的性质",
+      "label": "子章节"
+    },
+    {
+      "id": "a17",
+      "name": "导数概念",
+      "label": "子章节"
+    },
+    {
+      "id": "a18",
+      "name": "函数的求导法则",
+      "label": "子章节"
+    },
+    {
+      "id": "a19",
+      "name": "高阶导数",
+      "label": "子章节"
+    },
+    {
+      "id": "a20",
+      "name": "隐函数及由参数方程所确定的函数的导数 相关变化率",
+      "label": "子章节"
+    },
+    {
+      "id": "a21",
+      "name": "函数的微分",
+      "label": "子章节"
+    },
+    {
+      "id": "a22",
+      "name": "微分中值定理与导数的应用",
+      "label": "子章节"
+    },
+    {
+      "id": "a23",
+      "name": "微分中值定理",
+      "label": "子章节"
+    },
+    {
+      "id": "a24",
+      "name": "洛必达法则",
+      "label": "子章节"
+    },
+    {
+      "id": "a25",
+      "name": "泰勒公式",
+      "label": "子章节"
+    },
+    {
+      "id": "a26",
+      "name": "函数的单调性与曲线的凹凸性",
+      "label": "子章节"
+    },
+    {
+      "id": "a27",
+      "name": "函数的极值与最大值最小值",
+      "label": "子章节"
+    },
+    {
+      "id": "a28",
+      "name": "函数图形的描绘",
+      "label": "子章节"
+    },
+    {
+      "id": "a29",
+      "name": "曲率",
+      "label": "子章节"
+    },
+    {
+      "id": "a30",
+      "name": "方程的近似解",
+      "label": "子章节"
+    },
+    {
+      "id": "a31",
+      "name": "不定积分的概念与性质",
+      "label": "子章节"
+    },
+    {
+      "id": "a32",
+      "name": "换元积分法",
+      "label": "子章节"
+    },
+    {
+      "id": "a33",
+      "name": "分部积分法",
+      "label": "子章节"
+    },
+    {
+      "id": "a34",
+      "name": "有理函数的积分",
+      "label": "子章节"
+    },
+    {
+      "id": "a35",
+      "name": "积分表的使用",
+      "label": "子章节"
+    },
+    {
+      "id": "a36",
+      "name": "定积分的概念与性质",
+      "label": "子章节"
+    },
+    {
+      "id": "a37",
+      "name": "微积分基本公式",
+      "label": "子章节"
+    },
+    {
+      "id": "a38",
+      "name": "定积分的换元法和分部积分法",
+      "label": "子章节"
+    },
+    {
+      "id": "a39",
+      "name": "反常积分",
+      "label": "子章节"
+    },
+    {
+      "id": "a40",
+      "name": "反常积分的审敛法",
+      "label": "子章节"
+    },
+    {
+      "id": "a41",
+      "name": "Г函数",
+      "label": "子章节"
+    },
+    {
+      "id": "a42",
+      "name": "定积分的应用",
+      "label": "子章节"
+    },
+    {
+      "id": "a43",
+      "name": "定积分的元素法",
+      "label": "子章节"
+    },
+    {
+      "id": "a44",
+      "name": "定积分在几何学上的应用",
+      "label": "子章节"
+    },
+    {
+      "id": "a45",
+      "name": "定积分在物理学上的应用",
+      "label": "子章节"
+    },
+    {
+      "id": "a46",
+      "name": "微分方程的基本概念",
+      "label": "子章节"
+    },
+    {
+      "id": "a47",
+      "name": "可分离变量的微分方程",
+      "label": "子章节"
+    },
+    {
+      "id": "a48",
+      "name": "齐次方程",
+      "label": "子章节"
+    },
+    {
+      "id": "a49",
+      "name": "一阶线性微分方程",
+      "label": "子章节"
+    },
+    {
+      "id": "a50",
+      "name": "可降阶的高阶微分方程",
+      "label": "子章节"
+    },
+    {
+      "id": "a51",
+      "name": "高阶线性微分方程",
+      "label": "子章节"
+    },
+    {
+      "id": "a52",
+      "name": "常系数齐次线性微分方程",
+      "label": "子章节"
+    },
+    {
+      "id": "a53",
+      "name": "常系数非齐次线性微分方程",
+      "label": "子章节"
+    },
+    {
+      "id": "a54",
+      "name": "欧拉方程",
+      "label": "子章节"
+    },
+    {
+      "id": "a55",
+      "name": "常系数线性微分方程组解法举例",
+      "label": "子章节"
+    }
+  ],
+  "edges": [
+    {
+      "source": "a1",
+      "target": "a2",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a3",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a4",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a5",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a6",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a7",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a8",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a9",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a10",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a11",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a12",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a13",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a14",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a15",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a16",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a17",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a18",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a19",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a20",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a21",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a22",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a23",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a24",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a25",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a26",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a27",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a28",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a29",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a30",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a31",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a32",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a33",
+      "type": "包含"{
+    },
+    {
+      "source": "a1",
+      "target": "a34",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a35",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a36",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a37",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a38",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a39",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a40",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a41",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a42",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a43",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a44",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a45",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a46",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a47",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a48",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a49",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a50",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a51",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a52",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a53",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a54",
+      "type": "包含"
+    },
+    {
+      "source": "a1",
+      "target": "a55",
+      "type": "包含"
+    },
+    {
+      "source": "a2",
+      "target": "a8",
+      "type": "包含"
+    },
+    {
+      "source": "a2",
+      "target": "a9",
+      "type": "包含"
+    },
+    {
+      "source": "a2",
+      "target": "a10",
+      "type": "包含"
+    },
+    {
+      "source": "a2",
+      "target": "a11",
+      "type": "包含"
+    },
+    {
+      "source": "a2",
+      "target": "a12",
+      "type": "包含"
+    },
+    {
+      "source": "a2",
+      "target": "a13",
+      "type": "包含"
+    },
+    {
+      "source": "a2",
+      "target": "a14",
+      "type": "包含"
+    },
+    {
+      "source": "a3",
+      "target": "a15",
+      "type": "包含"
+    },
+    {
+      "source": "a3",
+      "target": "a16",
+      "type": "包含"
+    },
+    {
+      "source": "a4",
+      "target": "a17",
+      "type": "包含"
+    },
+    {
+      "source": "a4",
+      "target": "a18",
+      "type": "包含"
+    },
+    {
+      "source": "a4",
+      "target": "a19",
+      "type": "包含"
+    },
+    {
+      "source": "a4",
+      "target": "a20",
+      "type": "包含"
+    },
+    {
+      "source": "a4",
+      "target": "a21",
+      "type": "包含"
+    },
+    {
+      "source": "a4",
+      "target": "a22",
+      "type": "包含"
+    },
+    {
+      "source": "a4",
+      "target": "a23",
+      "type": "包含"
+    },
+    {
+      "source": "a4",
+      "target": "a24",
+      "type": "包含"
+    },
+    {
+      "source": "a4",
+      "target": "a25",
+      "type": "包含"
+    },
+    {
+      "source": "a4",
+      "target": "a26",
+      "type": "包含"
+    },
+    {
+      "source": "a4",
+      "target": "a27",
+      "type": "包含"
+    },
+    {
+      "source": "a4",
+      "target": "a28",
+      "type": "包含"
+    },
+    {
+      "source": "a4",
+      "target": "a29",
+      "type": "包含"
+    },
+    {
+      "source": "a4",
+      "target": "a30",
+      "type": "包含"
+    },
+    {
+      "source": "a5",
+      "target": "a31",
+      "type": "包含"
+    },
+    {
+      "source": "a5",
+      "target": "a32",
+      "type": "包含"
+    },
+    {
+      "source": "a5",
+      "target": "a33",
+      "type": "包含"
+    },
+    {
+      "source": "a5",
+      "target": "a34",
+      "type": "包含"
+    },
+    {
+      "source": "a5",
+      "target": "a35",
+      "type": "包含"
+    },
+    {
+      "source": "a6",
+      "target": "a36",
+      "type": "包含"
+    },
+    {
+      "source": "a6",
+      "target": "a37",
+      "type": "包含"
+    },
+    {
+      "source": "a6",
+      "target": "a38",
+      "type": "包含"
+    },
+    {
+      "source": "a6",
+      "target": "a39",
+      "type": "包含"
+    },
+    {
+      "source": "a6",
+      "target": "a40",
+      "type": "包含"{
+    },
+    {
+      "source": "a6",
+      "target": "a41",
+      "type": "包含"
+    },
+    {
+      "source": "a6",
+      "target": "a42",
+      "type": "包含"
+    },{
+    {
+      "source": "a6",
+      "target": "a43",
+      "type": "包含"
+    },
+    {
+      "source": "a6",
+      "target": "a44",
+      "type": "包含"
+    },
+    {
+      "source": "a6",
+      "target": "a45",
+      "type": "包含"
+    },
+    {
+      "source": "a7",
+      "target": "a46",
+      "type": "包含"
+    },
+    {
+      "source": "a7",
+      "target": "a47",
+      "type": "包含"
+    },
+    {
+      "source": "a7",
+      "target": "a48",
+      "type": "包含"
+    },
+    {
+      "source": "a7",
+      "target": "a49",
+      "type": "包含"
+    },
+    {
+      "source": "a7",
+      "target": "a50",
+      "type": "包含"
+    },
+    {
+      "source": "a7",
+      "target": "a51",
+      "type": "包含"
+    },
+    {
+      "source": "a7",
+      "target": "a52",
+      "type": "包含"
+    },
+    {
+      "source": "a7",
+      "target": "a53",
+      "type": "包含"
+    },
+    {
+      "source": "a7",
+      "target": "a54",
+      "type": "包含"
+    },
+    {
+      "source": "a7",
+      "target": "a55",
+      "type": "包含"
+    }
+  ]
+}

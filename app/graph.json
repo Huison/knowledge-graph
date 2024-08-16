@@ -1,0 +1,463 @@
+[
+  {
+    'source_node': Node('人物',name='张三'),
+    'source_node_labels': [
+      '人物'
+    ],
+    'relationship': test_type(Node('事件',
+    name='实分析和复分析的理论学习'),
+    Node('人物',name='张三'),
+    地点='test_location',时间='test_time'),
+    'target_node': Node(
+    '事件',
+    name=
+    '实分析和复分析的理论学习'
+    ),
+    'target_node_labels': [
+      '事件'
+    ],
+    'relation_type': 'test_type'
+  },
+  {
+    'source_node': Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    'source_node_labels': [
+      '人物'
+    ],
+    'relationship': 计划参加(Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    Node(
+    '事件',
+    name=
+    '实分析和复分析的理论学习'
+    ),
+    地点=
+    '大兴',
+    时间=
+    '2024年12月1日'
+    ),
+    'target_node': Node(
+    '事件',
+    name=
+    '实分析和复分析的理论学习'
+    ),
+    'target_node_labels': [
+      '事件'
+    ],
+    'relation_type': '计划参加'
+  },
+  {
+    'source_node': Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    'source_node_labels': [
+      '人物'
+    ],
+    'relationship': 被任命(Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    Node(
+    '职务',
+    name=
+    '副科长'
+    ),
+    地点=
+    '大兴',
+    时间=
+    '2023年12月3日'
+    ),
+    'target_node': Node(
+    '职务',
+    name=
+    '副科长'
+    ),
+    'target_node_labels': [
+      '职务'
+    ],
+    'relation_type': '被任命'
+  },
+  {
+    'source_node': Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    'source_node_labels': [
+      '人物'
+    ],
+    'relationship': 被任命(Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    Node(
+    '职务',
+    name=
+    '微分方程工程师'
+    ),
+    地点=
+    '大兴',
+    时间=
+    '2023年12月3日'
+    ),
+    'target_node': Node(
+    '职务',
+    name=
+    '微分方程工程师'
+    ),
+    'target_node_labels': [
+      '职务'
+    ],
+    'relation_type': '被任命'
+  },
+  {
+    'source_node': Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    'source_node_labels': [
+      '人物'
+    ],
+    'relationship': 参加(Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    Node(
+    '事件',
+    name=
+    '微分方程考试'
+    ),
+    地点=
+    '大兴',
+    时间=
+    '2023年12月3日'
+    ),
+    'target_node': Node(
+    '事件',
+    name=
+    '微分方程考试'
+    ),
+    'target_node_labels': [
+      '事件'
+    ],
+    'relation_type': '参加'
+  },
+  {
+    'source_node': Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    'source_node_labels': [
+      '人物'
+    ],
+    'relationship': 被任命(Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    Node(
+    '职务',
+    name=
+    '离散数学工程师'
+    ),
+    地点=
+    '大兴',
+    时间=
+    '2022年8月17日'
+    ),
+    'target_node': Node(
+    '职务',
+    name=
+    '离散数学工程师'
+    ),
+    'target_node_labels': [
+      '职务'
+    ],
+    'relation_type': '被任命'
+  },
+  {
+    'source_node': Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    'source_node_labels': [
+      '人物'
+    ],
+    'relationship': 参加(Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    Node(
+    '事件',
+    name=
+    '离散数学岗前培训'
+    ),
+    地点=
+    '大兴',
+    时间=
+    '2022年8月17日'
+    ),
+    'target_node': Node(
+    '事件',
+    name=
+    '离散数学岗前培训'
+    ),
+    'target_node_labels': [
+      '事件'
+    ],
+    'relation_type': '参加'
+  },
+  {
+    'source_node': Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    'source_node_labels': [
+      '人物'
+    ],
+    'relationship': 被任命(Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    Node(
+    '职务',
+    name=
+    '概率与统计助理工程师'
+    ),
+    地点=
+    '大兴',
+    时间=
+    '2021年10月9日'
+    ),
+    'target_node': Node(
+    '职务',
+    name=
+    '概率与统计助理工程师'
+    ),
+    'target_node_labels': [
+      '职务'
+    ],
+    'relation_type': '被任命'
+  },
+  {
+    'source_node': Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    'source_node_labels': [
+      '人物'
+    ],
+    'relationship': 参加(Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    Node(
+    '事件',
+    name=
+    '概率与统计岗前培训'
+    ),
+    地点=
+    '大兴',
+    时间=
+    '2021年10月9日'
+    ),
+    'target_node': Node(
+    '事件',
+    name=
+    '概率与统计岗前培训'
+    ),
+    'target_node_labels': [
+      '事件'
+    ],
+    'relation_type': '参加'
+  },
+  {
+    'source_node': Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    'source_node_labels': [
+      '人物'
+    ],
+    'relationship': 被任命(Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    Node(
+    '职务',
+    name=
+    '线性代数助理工程师'
+    ),
+    地点=
+    '大兴',
+    时间=
+    '2020年6月21日'
+    ),
+    'target_node': Node(
+    '职务',
+    name=
+    '线性代数助理工程师'
+    ),
+    'target_node_labels': [
+      '职务'
+    ],
+    'relation_type': '被任命'
+  },
+  {
+    'source_node': Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    'source_node_labels': [
+      '人物'
+    ],
+    'relationship': 参加(Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    Node(
+    '事件',
+    name=
+    '线性代数岗前培训'
+    ),
+    地点=
+    '大兴',
+    时间=
+    '2020年6月21日'
+    ),
+    'target_node': Node(
+    '事件',
+    name=
+    '线性代数岗前培训'
+    ),
+    'target_node_labels': [
+      '事件'
+    ],
+    'relation_type': '参加'
+  },
+  {
+    'source_node': Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    'source_node_labels': [
+      '人物'
+    ],
+    'relationship': 被授予(Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    Node(
+    '军衔',
+    name=
+    '中尉'
+    ),
+    地点=
+    '香山',
+    时间=
+    '2019年9月28日'
+    ),
+    'target_node': Node(
+    '军衔',
+    name=
+    '中尉'
+    ),
+    'target_node_labels': [
+      '军衔'
+    ],
+    'relation_type': '被授予'
+  },
+  {
+    'source_node': Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    'source_node_labels': [
+      '人物'
+    ],
+    'relationship': 被任命(Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    Node(
+    '职务',
+    name=
+    '微积分助理工程师'
+    ),
+    地点=
+    '香山',
+    时间=
+    '2019年9月28日'
+    ),
+    'target_node': Node(
+    '职务',
+    name=
+    '微积分助理工程师'
+    ),
+    'target_node_labels': [
+      '职务'
+    ],
+    'relation_type': '被任命'
+  },
+  {
+    'source_node': Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    'source_node_labels': [
+      '人物'
+    ],
+    'relationship': 参加(Node(
+    '人物',
+    name=
+    '张三'
+    ),
+    Node(
+    '事件',
+    name=
+    '微积分岗前培训'
+    ),
+    地点=
+    '香山',
+    时间=
+    '2019年9月28日'
+    ),
+    'target_node': Node(
+    '事件',
+    name=
+    '微积分岗前培训'
+    ),
+    'target_node_labels': [
+      '事件'
+    ],
+    'relation_type': '参加'
+  }
+]
